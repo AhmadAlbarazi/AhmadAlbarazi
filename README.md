@@ -23,7 +23,7 @@ Data Structure:
 - Graphs
 
 Frameworks:
-- ![react(js)] (https://img.shields.io/badge/react-black?style=flat-square&logo=react)
+- ![reactjs] (https://img.shields.io/badge/react-black?style=flat-square&logo=react)
 - Redux
 - React Bootstrap
   
