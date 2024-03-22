@@ -11,7 +11,8 @@
 ![java](https://custom-icon-badges.herokuapp.com/badge/java-black.svg?logo=java&logoColor=white&style=flat-square)
 
 ### Frameworks I'm currently learning:
-![reactjs] (https://img.shields.io/badge/react-black?style=flat-square&logo=react)
+![reactjs](https://img.shields.io/badge/react-black?style=flat-square&logo=react)
+![node.js](https://img.shields.io/badge/node.js-black?style=flat-square&logo=node.js)
 Redux
 React Bootstrap
   
