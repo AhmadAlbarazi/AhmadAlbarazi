@@ -7,7 +7,7 @@
 
 ![html5](https://img.shields.io/badge/html5-black?style=flat-square&logo=html5)
 ![css3](https://img.shields.io/badge/css3-black?style=flat-square&logo=css3&logoColor=1572B6)
-![javascript](https://img.shields.io/badge/logo-javascript-black?style=flat-square&logo=css3&logoColor=1572B6)
+![javascript](https://img.shields.io/badge/javascript-black?style=flat-square&logo=css3&logoColor=1572B6)
 ![java](https://custom-icon-badges.herokuapp.com/badge/java-black.svg?logo=java&logoColor=white&style=flat-square)
 
 ### Topics I'm currently learning:
