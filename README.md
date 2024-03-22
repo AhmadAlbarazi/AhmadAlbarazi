@@ -22,10 +22,10 @@ Learning front-end, currently a beginner!
 ## My Projects
 
 <details>
-  <summary><b>🛡️ &nbsp;Discord</b></summary>
+  <summary><b>🛡️ &nbsp;None</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/0-don/coding.global-bot">
+    <a href="https://github.com/AhmadAlbarazi">
       <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=0-don&repo=coding.global-bot&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
     </a>
   </p>
