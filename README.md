@@ -5,23 +5,10 @@
 
 ### 📙 Currently a beginner! Languages I'm currently learning:
 
-- ![html5](https://img.shields.io/badge/html5-black?style=flat-square&logo=html5)
-- ![css3](https://img.shields.io/badge/css3-black?style=flat-square&logo=css3)
-- ![javascript](https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript)
-- ![java](https://custom-icon-badges.herokuapp.com/badge/java-black.svg?logo=java&logoColor=white&style=flat-square)
-- ![sass](https://img.shields.io/badge/sass-black?style=flat-square&logo=sass)
+- ![html5](https://img.shields.io/badge/HTML5-black?style=flat-square&logo=html5)
+- ![css3](https://img.shields.io/badge/CSS3-black?style=flat-square&logo=css3)
+- ![javascript](https://img.shields.io/badge/JAVASCRIPT-black?style=flat-square&logo=javascript)
 
-
-
-### 🛠️ Frameworks/Libraries I'm currently learning:
-- ![ReactJs](https://img.shields.io/badge/react-black?style=flat-square&logo=react)
-- ![node.js](https://img.shields.io/badge/node.js-black?style=flat-square&logo=node.js)
-- ![Redux](https://img.shields.io/badge/redux-black?style=flat-square&logo=redux)
-- ![ReactBootstrap](https://custom-icon-badges.herokuapp.com/badge/react_bootstrap-black.svg?logo=rb&logoColor=white&style=flat-square)
-- ![jquery](https://img.shields.io/badge/jquery-black?style=flat-square&logo=jquery)
-- ![discordjs](https://custom-icon-badges.herokuapp.com/badge/discord_js-black.svg?logo=ddjs&logoColor=white&style=flat-square)
-
-  
 ## 🚧 My Projects
 
 <details>
