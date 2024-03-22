@@ -11,12 +11,15 @@
 - ![java](https://custom-icon-badges.herokuapp.com/badge/java-black.svg?logo=java&logoColor=white&style=flat-square)
 - ![sass](https://img.shields.io/badge/sass-black?style=flat-square&logo=sass)
 
+
+
 ### 🛠️ Frameworks/Libraries I'm currently learning:
 - ![ReactJs](https://img.shields.io/badge/react-black?style=flat-square&logo=react)
 - ![node.js](https://img.shields.io/badge/node.js-black?style=flat-square&logo=node.js)
 - ![Redux](https://img.shields.io/badge/redux-black?style=flat-square&logo=redux)
-- ![ReactBootstrap](https://img.shields.io/badge/bootstrap-black?style=flat-square&logo=bootstrap)
+- ![ReactBootstrap](https://custom-icon-badges.herokuapp.com/badge/react_bootstrap-black.svg?logo=rb&logoColor=white&style=flat-square)
 - ![jquery](https://img.shields.io/badge/jquery-black?style=flat-square&logo=jquery)
+- ![discordjs](https://custom-icon-badges.herokuapp.com/badge/discord_js-black.svg?logo=ddjs&logoColor=white&style=flat-square)
 
   
 ## 🚧 My Projects
