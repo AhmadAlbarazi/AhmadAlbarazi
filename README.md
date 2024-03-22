@@ -5,16 +5,16 @@
 
 ### Currently a beginner! Languages I'm currently learning:
 
-![html5](https://img.shields.io/badge/html5-black?style=flat-square&logo=html5)
-![css3](https://img.shields.io/badge/css3-black?style=flat-square&logo=css3&logoColor=1572B6)
-![javascript](https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript&logoColor=1572B6)
-![java](https://custom-icon-badges.herokuapp.com/badge/java-black.svg?logo=java&logoColor=white&style=flat-square)
+- ![html5](https://img.shields.io/badge/html5-black?style=flat-square&logo=html5)
+- ![css3](https://img.shields.io/badge/css3-black?style=flat-square&logo=css3&logoColor=1572B6)
+- ![javascript](https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript&logoColor=1572B6)
+- ![java](https://custom-icon-badges.herokuapp.com/badge/java-black.svg?logo=java&logoColor=white&style=flat-square)
 
 ### Frameworks I'm currently learning:
-![reactjs](https://img.shields.io/badge/react-black?style=flat-square&logo=react)
-![node.js](https://img.shields.io/badge/node.js-black?style=flat-square&logo=node.js)
-Redux
-React Bootstrap
+- ![reactjs](https://img.shields.io/badge/react-black?style=flat-square&logo=react)
+- ![node.js](https://img.shields.io/badge/node.js-black?style=flat-square&logo=node.js)
+- Redux
+- React Bootstrap
   
 ## My Projects
 
