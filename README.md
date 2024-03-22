@@ -13,19 +13,19 @@
 ### Topics I'm currently learning:
 
 Data Structure:
-- Arrays
-- Linked Lists
-- Stacks
-- Queues
-- Hash Tables
-- Trees
-- Heaps
-- Graphs
+Arrays
+Linked Lists
+Stacks
+Queues
+Hash Tables
+Trees
+Heaps
+Graphs
 
 Frameworks:
-- ![reactjs] (https://img.shields.io/badge/react-black?style=flat-square&logo=react)
-- Redux
-- React Bootstrap
+![reactjs] (https://img.shields.io/badge/react-black?style=flat-square&logo=react)
+Redux
+React Bootstrap
   
 ## My Projects
 
