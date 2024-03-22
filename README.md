@@ -10,19 +10,7 @@
 ![javascript](https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript&logoColor=1572B6)
 ![java](https://custom-icon-badges.herokuapp.com/badge/java-black.svg?logo=java&logoColor=white&style=flat-square)
 
-### Topics I'm currently learning:
-
-Data Structure:
-Arrays
-Linked Lists
-Stacks
-Queues
-Hash Tables
-Trees
-Heaps
-Graphs
-
-Frameworks:
+### Frameworks I'm currently learning:
 ![reactjs] (https://img.shields.io/badge/react-black?style=flat-square&logo=react)
 Redux
 React Bootstrap
